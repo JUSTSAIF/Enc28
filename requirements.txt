@@ -1,0 +1,12 @@
+pycryptodomex
+requests
+bs4
+lxml
+hashlib
+colored
+pycrypto
+crypto
+parser
+pycryptodome
+
+

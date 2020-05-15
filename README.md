@@ -1,2 +1,2 @@
-# Enc28
-Encrypt &amp; Decrypt &amp; Hashing &amp; Cracking Script
+pip install -r requirements.txt
+python 28.py
